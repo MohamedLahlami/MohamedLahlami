@@ -77,7 +77,7 @@ You’ll probably find me:
 Wanna chat about projects, ideas, or just tech in general?
 
 - 💼 [LinkedIn](www.linkedin.com/in/mohamedlahlami)
-- 📬 [Email](mohamedlahlami@gmail.com)
+- 📬 Email: mohamedlahlami@gmail.com
 
 Thanks for visiting my GitHub!  
 Feel free to check out some of my projects below 👇 and leave a ⭐ if something catches your eye!
