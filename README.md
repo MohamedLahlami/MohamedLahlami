@@ -4,15 +4,15 @@ I'm a **software engineering student** at [EMSI](https://www.emsi.ma/) in Morocc
 
 I’m currently based in **Marrakech**, where the sunsets are 🔥 and the Wi-Fi... mostly behaves.
 
-Also, I somehow have a degree in Physics an Automation.🤷‍♂️
+Also, I somehow have a bachelor's degree in Physics and Automation.🤷‍♂️
 
 ---
 
 ## 🧠 A Bit About Me
 
-I'm a curious and motivated dev who enjoys understanding how things work — not just using tools, but getting a feel for what’s going on behind the scenes. Whether it's figuring out why something's broken or experimenting with a new framework, I like to dig in and learn as I go.
+I'm a curious and motivated dev who enjoys understanding how things work and getting a feel for what’s going on behind the scenes. Whether it's figuring out why something's broken or experimenting with a new framework, I like to dig in and learn as I go.
 
-Over the past few years, I’ve worked on a variety of projects — some on my own, others with classmates and teams during internships. I've built full-stack apps, played with APIs, wrangled some databases, and tackled bugs that definitely kept me humble.
+Over the past few years, I’ve worked on a variety of projects, some on my own, others with classmates and teams during internships. I've built full-stack apps, played with APIs, wrangled some databases, and tackled bugs that definitely kept me humble.
 
 Lately, I’ve been really interested in where AI is heading and how I can be part of building useful, human-friendly tech around it.
 
